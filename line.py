@@ -25,4 +25,3 @@ def line():
     XY2=(CX2,Y2)
     abc = math.dist(XY1, XY2)
     print(f"La distancia entre ellos es: {abc}")
-line()
